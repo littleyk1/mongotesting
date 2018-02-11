@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleyk1/mongotesting.git"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "author": "Kelan Littley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littleyk1/mongotesting/issues"
+  },
+  "homepage": "https://github.com/littleyk1/mongotesting#readme"
+}
